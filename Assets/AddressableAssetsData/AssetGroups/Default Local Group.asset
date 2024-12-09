@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4846c1b15fb05bf48bd35196bee48548
+  m_SerializeEntries:
+  - m_GUID: 1413c82cba32fe3459ed651fb9515565
+    m_Address: Assets/_My/Object/Spaceship1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5a66887f27f2664dad073bd2c1f6fb1
+    m_Address: Assets/_My/Object/Spaceship2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adf6aca12bc4dbf4b91ab7384debcddd
+    m_Address: Assets/_My/Object/Spaceship3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c98962eb8b93776409b7e2cc5e81c128
+    m_Address: Assets/_My/Object/Spaceship4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be84a936190d3c644b55cf0f4d14b8b8
+    m_Address: Assets/_My/Object/Spaceship5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f94cbe6aedfa0f4468b42ea49fbec620
+    m_Address: Assets/_My/Resource/7. Jackson 5 - I Want You Back.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e483926841b4684c94ca64098abf8ef
+    m_Address: "Assets/_My/Resource/\uB85C\uACE0.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c2c519957b2b3e47813f54946fb5202, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d621e2aef14c2594eac551a71dc4bef2, type: 2}
+    - {fileID: 11400000, guid: fa4326708a0c9d4488279b3700cf252e, type: 2}

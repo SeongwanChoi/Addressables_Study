@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Material
+  m_EditorClassIdentifier: 
+  m_GroupName: Material
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0aabb61d6031be84fac4ddd391d54e9e
+  m_SerializeEntries:
+  - m_GUID: acc98c52988a2b94cb2f572f92c9dad0
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/Grey/Cockpit3Grey.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31a707914d7d21a43a08fefa9be7e5a1
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Grey/Engine1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 803ac2029c21fb14d85e6872c448d499
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a54a06feeed96649a96e5f8a061fd04
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Grey/MainBody13.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dafd004b7ca39d4898282d5e1f2be19
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing6.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec6f04fd8f865a1498a4a664497961cd
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Weapons/BigLauncher.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c20e71ad321ca904793f92092b159096
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Grey/Wing2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8e1b4c0c55e7504a97b04bf5094c7bf
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Weapons/Blaster.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e818c4f49caabf4aa5887c4726ee4b0
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Cockpits/Red/Cockpit3Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 956326301d5293a4ab942fa696bafb66
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Engines/Red/Engine1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e219e4526922b441a10f1e5eec7bc64
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody13.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b55b1be105adb4598a03ab3a6fc0db
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/MainBodies/Red/MainBody2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24f339a096fd9df4fb9080ff424c5e40
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9567a4c84505d3a41a397978275ffd72
+    m_Address: Assets/HiRezSpaceshipsCreatorFree/Materials/Wings/Red/Wing6.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c2c519957b2b3e47813f54946fb5202, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 338dae64fcca50d46b3fda85b10b6a48, type: 2}
+    - {fileID: 11400000, guid: 017a24aa6bd91ca468ca06e336d7ab76, type: 2}
